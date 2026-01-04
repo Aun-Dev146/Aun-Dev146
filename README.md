@@ -1,6 +1,23 @@
 # 💫 About Me:
-I'm currentely working on AI and about to be graduate in 2026 from FAST NUCES as an a BS(AI) Graduate and willing tocollaborate on machine learning AI Automation AI system 
+I am a BS in Artificial Intelligence student at FAST NUCES, expected to graduate in 2026, with a strong interest in Machine Learning, AI Automation, and Intelligent System Design.
 
+I enjoy building end-to-end AI solutions, from data preprocessing and model development to deployment and automation. My academic and project experience includes working with ML models, deep learning architectures, recommendation systems, and MLOps workflows. I am particularly interested in applying AI to solve real-world problems through scalable and efficient systems.
+
+I am always open to collaborations, research projects, and open-source contributions in areas related to Machine Learning, AI Automation, and intelligent applications.
+
+📌 Interests:
+
+Machine Learning & Deep Learning
+
+AI Automation & Intelligent Systems
+
+Recommendation Systems
+
+MLOps & Model Deployment
+
+Applied AI & Real-World Solutions
+
+📫 Let’s collaborate: Feel free to connect or reach out for projects, research, or innovative AI ideas.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aun ALi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aun146) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aun Ali) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aun Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aun36852@gmail.com) 
